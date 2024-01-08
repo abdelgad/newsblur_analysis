@@ -1,0 +1,179 @@
+<?xml version="1.0" ?>
+<Metrics>
+  <Database>
+    <Statement Id="104" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabase.java" Line="18">
+    </Statement>
+    <Statement Id="173" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabase.java" Line="19">
+    </Statement>
+    <Statement Id="198" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabase.java" Line="20">
+    </Statement>
+    <Statement Id="214" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabase.java" Line="21">
+    </Statement>
+    <Statement Id="230" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabase.java" Line="22">
+    </Statement>
+    <Statement Id="324" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabase.java" Line="23">
+    </Statement>
+    <Statement Id="330" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabase.java" Line="24">
+    </Statement>
+    <Statement Id="339" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabase.java" Line="25">
+    </Statement>
+    <Statement Id="376" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabase.java" Line="26">
+    </Statement>
+    <Statement Id="401" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabase.java" Line="27">
+    </Statement>
+    <Statement Id="416" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabase.java" Line="28">
+    </Statement>
+    <Statement Id="429" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabase.java" Line="29">
+    </Statement>
+    <Statement Id="442" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabase.java" Line="30">
+    </Statement>
+    <Statement Id="459" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabase.java" Line="31">
+    </Statement>
+    <Statement Id="476" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabase.java" Line="32">
+    </Statement>
+    <Statement Id="486" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabase.java" Line="33">
+    </Statement>
+    <Statement Id="495" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabase.java" Line="34">
+    </Statement>
+    <Statement Id="504" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabase.java" Line="35">
+    </Statement>
+    <Statement Id="514" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabase.java" Line="41">
+    </Statement>
+    <Statement Id="516" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabase.java" Line="42">
+    </Statement>
+    <Statement Id="518" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabase.java" Line="43">
+    </Statement>
+    <Statement Id="520" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabase.java" Line="44">
+    </Statement>
+    <Statement Id="522" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabase.java" Line="45">
+    </Statement>
+    <Statement Id="524" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabase.java" Line="46">
+    </Statement>
+    <Statement Id="526" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabase.java" Line="47">
+    </Statement>
+    <Statement Id="528" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabase.java" Line="48">
+    </Statement>
+    <Statement Id="530" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabase.java" Line="49">
+    </Statement>
+    <Statement Id="532" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabase.java" Line="50">
+    </Statement>
+    <Statement Id="534" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabase.java" Line="51">
+    </Statement>
+    <Statement Id="536" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabase.java" Line="52">
+    </Statement>
+    <Statement Id="538" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabase.java" Line="53">
+    </Statement>
+    <Statement Id="540" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabase.java" Line="54">
+    </Statement>
+    <Statement Id="542" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabase.java" Line="55">
+    </Statement>
+    <Statement Id="544" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabase.java" Line="56">
+    </Statement>
+    <Statement Id="546" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabase.java" Line="57">
+    </Statement>
+    <Statement Id="548" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabase.java" Line="58">
+    </Statement>
+    <Statement Id="557" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabaseHelper.java" Line="91">
+      <Metrics>
+        <Metric name="Fields" value="1"></Metric>
+        <Metric name="Nested Queries" value="0"></Metric>
+        <Metric name="Nesting Level" value="0"></Metric>
+      </Metrics>
+    </Statement>
+    <Statement Id="562" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabaseHelper.java" Line="112">
+      <Metrics>
+        <Metric name="Fields" value="1"></Metric>
+        <Metric name="Nested Queries" value="0"></Metric>
+        <Metric name="Nesting Level" value="0"></Metric>
+      </Metrics>
+    </Statement>
+    <Statement Id="570" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabaseHelper.java" Line="112">
+      <Metrics>
+        <Metric name="Fields" value="1"></Metric>
+        <Metric name="Nested Queries" value="0"></Metric>
+        <Metric name="Nesting Level" value="0"></Metric>
+      </Metrics>
+    </Statement>
+    <Statement Id="575" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabaseHelper.java" Line="128">
+      <Metrics>
+        <Metric name="Fields" value="1"></Metric>
+        <Metric name="Nested Queries" value="0"></Metric>
+        <Metric name="Nesting Level" value="0"></Metric>
+      </Metrics>
+    </Statement>
+    <Statement Id="577" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabaseHelper.java" Line="177">
+      <Metrics>
+        <Metric name="Nested Queries" value="1"></Metric>
+        <Metric name="Nesting Level" value="0"></Metric>
+      </Metrics>
+    </Statement>
+    <Statement Id="586" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabaseHelper.java" Line="201">
+    </Statement>
+    <Statement Id="601" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabaseHelper.java" Line="283">
+      <Metrics>
+        <Metric name="Fields" value="1"></Metric>
+        <Metric name="Nested Queries" value="0"></Metric>
+        <Metric name="Nesting Level" value="0"></Metric>
+      </Metrics>
+    </Statement>
+    <Statement Id="609" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabaseHelper.java" Line="296">
+      <Metrics>
+        <Metric name="Fields" value="1"></Metric>
+        <Metric name="Nested Queries" value="0"></Metric>
+        <Metric name="Nesting Level" value="0"></Metric>
+      </Metrics>
+    </Statement>
+    <Statement Id="614" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabaseHelper.java" Line="540">
+      <Metrics>
+        <Metric name="Fields" value="1"></Metric>
+        <Metric name="Nested Queries" value="0"></Metric>
+        <Metric name="Nesting Level" value="0"></Metric>
+      </Metrics>
+    </Statement>
+    <Statement Id="620" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabaseHelper.java" Line="730">
+    </Statement>
+    <Statement Id="629" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabaseHelper.java" Line="730">
+    </Statement>
+    <Statement Id="637" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabaseHelper.java" Line="909">
+      <Metrics>
+        <Metric name="Fields" value="1"></Metric>
+        <Metric name="Nested Queries" value="0"></Metric>
+        <Metric name="Nesting Level" value="0"></Metric>
+      </Metrics>
+    </Statement>
+    <Statement Id="645" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabaseHelper.java" Line="917">
+    </Statement>
+    <Statement Id="656" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabaseHelper.java" Line="923">
+      <Metrics>
+        <Metric name="Fields" value="1"></Metric>
+        <Metric name="Nested Queries" value="0"></Metric>
+        <Metric name="Nesting Level" value="0"></Metric>
+      </Metrics>
+    </Statement>
+    <Statement Id="662" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabaseHelper.java" Line="973">
+    </Statement>
+    <Statement Id="673" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabaseHelper.java" Line="1014">
+      <Metrics>
+        <Metric name="Fields" value="1"></Metric>
+        <Metric name="Nested Queries" value="0"></Metric>
+        <Metric name="Nesting Level" value="0"></Metric>
+      </Metrics>
+    </Statement>
+    <Statement Id="681" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabaseHelper.java" Line="1030">
+      <Metrics>
+        <Metric name="Fields" value="1"></Metric>
+        <Metric name="Nested Queries" value="0"></Metric>
+        <Metric name="Nesting Level" value="0"></Metric>
+      </Metrics>
+    </Statement>
+    <Statement Id="693" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabaseHelper.java" Line="1113">
+      <Metrics>
+        <Metric name="Fields" value="1"></Metric>
+        <Metric name="Nested Queries" value="0"></Metric>
+        <Metric name="Nesting Level" value="0"></Metric>
+      </Metrics>
+    </Statement>
+    <Statement Id="695" Path="C:/Users/Abdel/Documents/NewsBlur/clients/android/NewsBlur/app/src/main/java/com/newsblur/database/BlurDatabaseHelper.java" Line="1198">
+    </Statement>
+</Database>  
+</Metrics>
